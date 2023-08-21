@@ -1,5 +1,11 @@
 ### Hi there 👋
+# Halo semua! 
 
+Perkenalkan nama saya **Muhammad Rafli Aditya. h**.\
+
+Saya seorang **Mahasiswa** di [Universitas Negeri Makassar](https://unm.ac.id/).\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-rafli-aditya-h-b39911268/)ku ya.
 <!--
 **rafliaditya963/Rafliaditya963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
