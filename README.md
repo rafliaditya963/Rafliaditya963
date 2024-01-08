@@ -1,9 +1,9 @@
 ### Hi there 👋
 # Halo semua! 
 
-Perkenalkan nama saya **Muhammad Rafli Aditya. h**.\
+Perkenalkan nama saya **Muhammad Rafli Aditya. h**.
 
-Saya seorang **Mahasiswa** di [Universitas Negeri Makassar](https://unm.ac.id/).\
+Saya seorang **Mahasiswa** di [Universitas Negeri Makassar](https://unm.ac.id/).
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-rafli-aditya-h-b39911268/)ku ya.
 
